@@ -1,5 +1,5 @@
-#+TITLE: Miscellaneous MELPA Contributions.org   -*- mode: org; mode:visual-line; -*-
 * Miscellaneous MELPA Contributions
+#+OPTIONS: toc:1
 ** home-end
 
 This package makes HOME/END keys smartly cycle to the beginning/end
